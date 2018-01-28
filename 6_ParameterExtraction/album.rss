@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>6_ParameterExtraction</title>
+   	<link>..</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>eta</title>
+            <link>slides/eta.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/eta.png" width="256" height="162"/>
+            <media:content type="image/png" url="slides/eta.png" width="868" height="548"/>
+            <guid isPermaLink="false">slides/eta.png</guid>
+        </item>
+        <item>
+            <title>gmIDeta</title>
+            <link>slides/gmIDeta.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gmIDeta.png" width="256" height="173"/>
+            <media:content type="image/png" url="slides/gmIDeta.png" width="989" height="669"/>
+            <guid isPermaLink="false">slides/gmIDeta.png</guid>
+        </item>
+        <item>
+            <title>rds6</title>
+            <link>slides/rds6.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rds6.png" width="256" height="186"/>
+            <media:content type="image/png" url="slides/rds6.png" width="418" height="303"/>
+            <guid isPermaLink="false">slides/rds6.png</guid>
+        </item>
+        <item>
+            <title>beta</title>
+            <link>slides/beta.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/beta.png" width="256" height="168"/>
+            <media:content type="image/png" url="slides/beta.png" width="1051" height="688"/>
+            <guid isPermaLink="false">slides/beta.png</guid>
+        </item>
+        <item>
+            <title>gmID_EKV</title>
+            <link>slides/gmID_EKV.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gmID_EKV.png" width="256" height="181"/>
+            <media:content type="image/png" url="slides/gmID_EKV.png" width="934" height="660"/>
+            <guid isPermaLink="false">slides/gmID_EKV.png</guid>
+        </item>
+        <item>
+            <title>Ispec</title>
+            <link>slides/Ispec.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ispec.png" width="256" height="183"/>
+            <media:content type="image/png" url="slides/Ispec.png" width="840" height="600"/>
+            <guid isPermaLink="false">slides/Ispec.png</guid>
+        </item>
+        <item>
+            <title>ISQ_coitinho</title>
+            <link>slides/ISQ_coitinho.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ISQ_coitinho.png" width="177" height="256"/>
+            <media:content type="image/png" url="slides/ISQ_coitinho.png" width="450" height="650"/>
+            <guid isPermaLink="false">slides/ISQ_coitinho.png</guid>
+        </item>
+        <item>
+            <title>rds1</title>
+            <link>slides/rds1.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rds1.png" width="256" height="158"/>
+            <media:content type="image/png" url="slides/rds1.png" width="299" height="185"/>
+            <guid isPermaLink="false">slides/rds1.png</guid>
+        </item>
+        <item>
+            <title>rds2</title>
+            <link>slides/rds2.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rds2.png" width="256" height="218"/>
+            <media:content type="image/png" url="slides/rds2.png" width="396" height="337"/>
+            <guid isPermaLink="false">slides/rds2.png</guid>
+        </item>
+        <item>
+            <title>rds3</title>
+            <link>slides/rds3.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rds3.png" width="256" height="194"/>
+            <media:content type="image/png" url="slides/rds3.png" width="416" height="315"/>
+            <guid isPermaLink="false">slides/rds3.png</guid>
+        </item>
+        <item>
+            <title>rds4</title>
+            <link>slides/rds4.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rds4.png" width="256" height="201"/>
+            <media:content type="image/png" url="slides/rds4.png" width="403" height="317"/>
+            <guid isPermaLink="false">slides/rds4.png</guid>
+        </item>
+        <item>
+            <title>rds5</title>
+            <link>slides/rds5.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rds5.png" width="256" height="185"/>
+            <media:content type="image/png" url="slides/rds5.png" width="410" height="296"/>
+            <guid isPermaLink="false">slides/rds5.png</guid>
+        </item>
+        <item>
+            <title>sqrtID_VS</title>
+            <link>slides/sqrtID_VS.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sqrtID_VS.png" width="256" height="183"/>
+            <media:content type="image/png" url="slides/sqrtID_VS.png" width="744" height="531"/>
+            <guid isPermaLink="false">slides/sqrtID_VS.png</guid>
+        </item>
+        <item>
+            <title>cc</title>
+            <link>slides/cc.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cc.png" width="256" height="130"/>
+            <media:content type="image/png" url="slides/cc.png" width="1124" height="569"/>
+            <guid isPermaLink="false">slides/cc.png</guid>
+        </item>
+        <item>
+            <title>cv_vth</title>
+            <link>slides/cv_vth.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cv_vth.png" width="256" height="191"/>
+            <media:content type="image/png" url="slides/cv_vth.png" width="683" height="509"/>
+            <guid isPermaLink="false">slides/cv_vth.png</guid>
+        </item>
+        <item>
+            <title>gmID</title>
+            <link>slides/gmID.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gmID.png" width="256" height="173"/>
+            <media:content type="image/png" url="slides/gmID.png" width="980" height="661"/>
+            <guid isPermaLink="false">slides/gmID.png</guid>
+        </item>
+        <item>
+            <title>gm_max</title>
+            <link>slides/gm_max.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gm_max.png" width="256" height="183"/>
+            <media:content type="image/png" url="slides/gm_max.png" width="1500" height="1073"/>
+            <guid isPermaLink="false">slides/gm_max.png</guid>
+        </item>
+        <item>
+            <title>gm_max2</title>
+            <link>slides/gm_max2.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gm_max2.png" width="256" height="170"/>
+            <media:content type="image/png" url="slides/gm_max2.png" width="1056" height="700"/>
+            <guid isPermaLink="false">slides/gm_max2.png</guid>
+        </item>
+        <item>
+            <title>ISQ</title>
+            <link>slides/ISQ.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ISQ.png" width="256" height="165"/>
+            <media:content type="image/png" url="slides/ISQ.png" width="952" height="615"/>
+            <guid isPermaLink="false">slides/ISQ.png</guid>
+        </item>
+        <item>
+            <title>second_deriv</title>
+            <link>slides/second_deriv.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/second_deriv.png" width="256" height="177"/>
+            <media:content type="image/png" url="slides/second_deriv.png" width="1017" height="705"/>
+            <guid isPermaLink="false">slides/second_deriv.png</guid>
+        </item>
+        <item>
+            <title>second_deriv2</title>
+            <link>slides/second_deriv2.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/second_deriv2.png" width="256" height="184"/>
+            <media:content type="image/png" url="slides/second_deriv2.png" width="1009" height="726"/>
+            <guid isPermaLink="false">slides/second_deriv2.png</guid>
+        </item>
+        <item>
+            <title>yf</title>
+            <link>slides/yf.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:27 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yf.png" width="256" height="188"/>
+            <media:content type="image/png" url="slides/yf.png" width="764" height="560"/>
+            <guid isPermaLink="false">slides/yf.png</guid>
+        </item>
+    </channel>
+</rss>

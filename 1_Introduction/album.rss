@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>1_Introduction</title>
+   	<link>..</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>transistor1</title>
+            <link>slides/transistor1.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:21 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/transistor1.jpg" width="256" height="255"/>
+            <media:content type="image/jpeg" url="slides/transistor1.jpg" width="1536" height="1532"/>
+            <guid isPermaLink="false">slides/transistor1.jpg</guid>
+        </item>
+        <item>
+            <title>asenov</title>
+            <link>slides/asenov.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:21 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asenov.png" width="256" height="78"/>
+            <media:content type="image/png" url="slides/asenov.png" width="985" height="300"/>
+            <guid isPermaLink="false">slides/asenov.png</guid>
+        </item>
+        <item>
+            <title>chips</title>
+            <link>slides/chips.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:21 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/chips.png" width="256" height="139"/>
+            <media:content type="image/png" url="slides/chips.png" width="866" height="469"/>
+            <guid isPermaLink="false">slides/chips.png</guid>
+        </item>
+        <item>
+            <title>intel</title>
+            <link>slides/intel.png</link>
+            <pubDate>Sun, 28 Jan 2018 20:30:21 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/intel.png" width="256" height="131"/>
+            <media:content type="image/png" url="slides/intel.png" width="1154" height="590"/>
+            <guid isPermaLink="false">slides/intel.png</guid>
+        </item>
+    </channel>
+</rss>
