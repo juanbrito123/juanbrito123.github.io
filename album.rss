@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>IDVGVD100mV</title>
+   	<link>.</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>ID_VG@VDS=100mV</title>
+            <link>slides/ID_VG%40VDS-100mV.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ID_VG%40VDS-100mV.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/ID_VG%40VDS-100mV.png" width="879" height="572"/>
+            <guid isPermaLink="false">slides/ID_VG%40VDS-100mV.png</guid>
+        </item>
+        <item>
+            <title>sigmaID_VG</title>
+            <link>slides/sigmaID_VG.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sigmaID_VG.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/sigmaID_VG.png" width="946" height="695"/>
+            <guid isPermaLink="false">slides/sigmaID_VG.png</guid>
+        </item>
+        <item>
+            <title>sigmaID_VGsame_1OverSqrtWL</title>
+            <link>slides/sigmaID_VGsame_1OverSqrtWL.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sigmaID_VGsame_1OverSqrtWL.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/sigmaID_VGsame_1OverSqrtWL.png" width="1000" height="282"/>
+            <guid isPermaLink="false">slides/sigmaID_VGsame_1OverSqrtWL.png</guid>
+        </item>
+        <item>
+            <title>sigmaVTH_1overSqrtWL</title>
+            <link>slides/sigmaVTH_1overSqrtWL.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sigmaVTH_1overSqrtWL.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/sigmaVTH_1overSqrtWL.png" width="936" height="542"/>
+            <guid isPermaLink="false">slides/sigmaVTH_1overSqrtWL.png</guid>
+        </item>
+        <item>
+            <title>sigmaBETA_1overSqrtWL</title>
+            <link>slides/sigmaBETA_1overSqrtWL.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sigmaBETA_1overSqrtWL.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/sigmaBETA_1overSqrtWL.png" width="1000" height="598"/>
+            <guid isPermaLink="false">slides/sigmaBETA_1overSqrtWL.png</guid>
+        </item>
+        <item>
+            <title>sigmaVTHWLdependence</title>
+            <link>slides/sigmaVTHWLdependence.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sigmaVTHWLdependence.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/sigmaVTHWLdependence.png" width="1000" height="597"/>
+            <guid isPermaLink="false">slides/sigmaVTHWLdependence.png</guid>
+        </item>
+        <item>
+            <title>todas_lin</title>
+            <link>slides/todas_lin.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/todas_lin.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/todas_lin.png" width="1000" height="539"/>
+            <guid isPermaLink="false">slides/todas_lin.png</guid>
+        </item>
+        <item>
+            <title>secondderiv_problem</title>
+            <link>slides/secondderiv_problem.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/secondderiv_problem.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/secondderiv_problem.png" width="1000" height="517"/>
+            <guid isPermaLink="false">slides/secondderiv_problem.png</guid>
+        </item>
+        <item>
+            <title>secondderiv_problem_zoom</title>
+            <link>slides/secondderiv_problem_zoom.png</link>
+            <pubDate>Sun, 28 Jan 2018 08:43:47 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/secondderiv_problem_zoom.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/secondderiv_problem_zoom.png" width="1000" height="538"/>
+            <guid isPermaLink="false">slides/secondderiv_problem_zoom.png</guid>
+        </item>
+    </channel>
+</rss>
