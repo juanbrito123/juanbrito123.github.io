@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>5_LiteratureReview</title>
+   	<link>..</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>terada3</title>
+            <link>slides/terada3.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/terada3.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/terada3.png" width="799" height="559"/>
+            <guid isPermaLink="false">slides/terada3.png</guid>
+        </item>
+        <item>
+            <title>tuinhout</title>
+            <link>slides/tuinhout.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/tuinhout.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/tuinhout.png" width="240" height="223"/>
+            <guid isPermaLink="false">slides/tuinhout.png</guid>
+        </item>
+        <item>
+            <title>tuinhout1</title>
+            <link>slides/tuinhout1.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/tuinhout1.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/tuinhout1.png" width="986" height="550"/>
+            <guid isPermaLink="false">slides/tuinhout1.png</guid>
+        </item>
+        <item>
+            <title>tuinhout2</title>
+            <link>slides/tuinhout2.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/tuinhout2.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/tuinhout2.png" width="836" height="558"/>
+            <guid isPermaLink="false">slides/tuinhout2.png</guid>
+        </item>
+        <item>
+            <title>vmidf</title>
+            <link>slides/vmidf.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/vmidf.jpg" width="194" height="145"/>
+            <media:content type="image/jpeg" url="slides/vmidf.jpg" width="194" height="186"/>
+            <guid isPermaLink="false">slides/vmidf.jpg</guid>
+        </item>
+        <item>
+            <title>vmidr</title>
+            <link>slides/vmidr.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/vmidr.jpg" width="211" height="158"/>
+            <media:content type="image/jpeg" url="slides/vmidr.jpg" width="211" height="192"/>
+            <guid isPermaLink="false">slides/vmidr.jpg</guid>
+        </item>
+        <item>
+            <title>clamp</title>
+            <link>slides/clamp.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/clamp.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/clamp.png" width="641" height="493"/>
+            <guid isPermaLink="false">slides/clamp.png</guid>
+        </item>
+        <item>
+            <title>clampN</title>
+            <link>slides/clampN.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/clampN.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/clampN.png" width="970" height="674"/>
+            <guid isPermaLink="false">slides/clampN.png</guid>
+        </item>
+        <item>
+            <title>kelvin</title>
+            <link>slides/kelvin.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kelvin.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/kelvin.jpg" width="473" height="216"/>
+            <guid isPermaLink="false">slides/kelvin.jpg</guid>
+        </item>
+        <item>
+            <title>mcandrew1</title>
+            <link>slides/mcandrew1.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/mcandrew1.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/mcandrew1.png" width="315" height="291"/>
+            <guid isPermaLink="false">slides/mcandrew1.png</guid>
+        </item>
+        <item>
+            <title>mcandrew2</title>
+            <link>slides/mcandrew2.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/mcandrew2.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/mcandrew2.png" width="832" height="340"/>
+            <guid isPermaLink="false">slides/mcandrew2.png</guid>
+        </item>
+        <item>
+            <title>mcandrew3</title>
+            <link>slides/mcandrew3.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/mcandrew3.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/mcandrew3.png" width="375" height="297"/>
+            <guid isPermaLink="false">slides/mcandrew3.png</guid>
+        </item>
+        <item>
+            <title>opamp</title>
+            <link>slides/opamp.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/opamp.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/opamp.jpg" width="426" height="230"/>
+            <guid isPermaLink="false">slides/opamp.jpg</guid>
+        </item>
+        <item>
+            <title>opamp2</title>
+            <link>slides/opamp2.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/opamp2.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/opamp2.jpg" width="456" height="360"/>
+            <guid isPermaLink="false">slides/opamp2.jpg</guid>
+        </item>
+        <item>
+            <title>padsharing</title>
+            <link>slides/padsharing.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/padsharing.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/padsharing.png" width="466" height="344"/>
+            <guid isPermaLink="false">slides/padsharing.png</guid>
+        </item>
+        <item>
+            <title>probe</title>
+            <link>slides/probe.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/probe.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/probe.jpg" width="609" height="440"/>
+            <guid isPermaLink="false">slides/probe.jpg</guid>
+        </item>
+        <item>
+            <title>rao</title>
+            <link>slides/rao.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rao.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/rao.png" width="491" height="258"/>
+            <guid isPermaLink="false">slides/rao.png</guid>
+        </item>
+        <item>
+            <title>rao1</title>
+            <link>slides/rao1.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rao1.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/rao1.png" width="1000" height="362"/>
+            <guid isPermaLink="false">slides/rao1.png</guid>
+        </item>
+        <item>
+            <title>rao_result</title>
+            <link>slides/rao_result.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rao_result.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/rao_result.jpg" width="567" height="206"/>
+            <guid isPermaLink="false">slides/rao_result.jpg</guid>
+        </item>
+        <item>
+            <title>rao_system</title>
+            <link>slides/rao_system.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rao_system.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/rao_system.jpg" width="421" height="203"/>
+            <guid isPermaLink="false">slides/rao_system.jpg</guid>
+        </item>
+        <item>
+            <title>sense1</title>
+            <link>slides/sense1.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sense1.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/sense1.png" width="1000" height="513"/>
+            <guid isPermaLink="false">slides/sense1.png</guid>
+        </item>
+        <item>
+            <title>sense2</title>
+            <link>slides/sense2.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sense2.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/sense2.png" width="1000" height="760"/>
+            <guid isPermaLink="false">slides/sense2.png</guid>
+        </item>
+        <item>
+            <title>stacked</title>
+            <link>slides/stacked.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/stacked.jpg" width="202" height="151"/>
+            <media:content type="image/jpeg" url="slides/stacked.jpg" width="202" height="181"/>
+            <guid isPermaLink="false">slides/stacked.jpg</guid>
+        </item>
+        <item>
+            <title>terada1</title>
+            <link>slides/terada1.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/terada1.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/terada1.png" width="858" height="423"/>
+            <guid isPermaLink="false">slides/terada1.png</guid>
+        </item>
+        <item>
+            <title>terada2</title>
+            <link>slides/terada2.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/terada2.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/terada2.png" width="1000" height="366"/>
+            <guid isPermaLink="false">slides/terada2.png</guid>
+        </item>
+        <item>
+            <title>1Dmatrix</title>
+            <link>slides/1Dmatrix.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1Dmatrix.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/1Dmatrix.png" width="378" height="490"/>
+            <guid isPermaLink="false">slides/1Dmatrix.png</guid>
+        </item>
+        <item>
+            <title>2DMatrix</title>
+            <link>slides/2DMatrix.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2DMatrix.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/2DMatrix.png" width="548" height="528"/>
+            <guid isPermaLink="false">slides/2DMatrix.png</guid>
+        </item>
+        <item>
+            <title>agarwal</title>
+            <link>slides/agarwal.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/agarwal.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/agarwal.jpg" width="567" height="484"/>
+            <guid isPermaLink="false">slides/agarwal.jpg</guid>
+        </item>
+        <item>
+            <title>agarwal0</title>
+            <link>slides/agarwal0.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/agarwal0.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/agarwal0.png" width="1000" height="502"/>
+            <guid isPermaLink="false">slides/agarwal0.png</guid>
+        </item>
+        <item>
+            <title>agarwal1</title>
+            <link>slides/agarwal1.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/agarwal1.jpg" width="217" height="163"/>
+            <media:content type="image/jpeg" url="slides/agarwal1.jpg" width="217" height="255"/>
+            <guid isPermaLink="false">slides/agarwal1.jpg</guid>
+        </item>
+        <item>
+            <title>agarwal2</title>
+            <link>slides/agarwal2.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/agarwal2.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/agarwal2.jpg" width="515" height="378"/>
+            <guid isPermaLink="false">slides/agarwal2.jpg</guid>
+        </item>
+        <item>
+            <title>ArrayMOSFETs</title>
+            <link>slides/ArrayMOSFETs.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:57 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ArrayMOSFETs.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/ArrayMOSFETs.jpg" width="416" height="465"/>
+            <guid isPermaLink="false">slides/ArrayMOSFETs.jpg</guid>
+        </item>
+    </channel>
+</rss>

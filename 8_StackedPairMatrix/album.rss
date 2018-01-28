@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>8_StackedPairMatrix</title>
+   	<link>..</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2stacked1</title>
+            <link>slides/2stacked1.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:28:05 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2stacked1.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/2stacked1.png" width="768" height="386"/>
+            <guid isPermaLink="false">slides/2stacked1.png</guid>
+        </item>
+    </channel>
+</rss>

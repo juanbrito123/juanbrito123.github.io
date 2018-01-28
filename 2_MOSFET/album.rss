@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2_MOSFET</title>
+   	<link>..</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>bands</title>
+            <link>slides/bands.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bands.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/bands.png" width="1000" height="581"/>
+            <guid isPermaLink="false">slides/bands.png</guid>
+        </item>
+        <item>
+            <title>cv1</title>
+            <link>slides/cv1.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cv1.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/cv1.png" width="773" height="450"/>
+            <guid isPermaLink="false">slides/cv1.png</guid>
+        </item>
+        <item>
+            <title>CVplot</title>
+            <link>slides/CVplot.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CVplot.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/CVplot.png" width="1000" height="705"/>
+            <guid isPermaLink="false">slides/CVplot.png</guid>
+        </item>
+        <item>
+            <title>itrs</title>
+            <link>slides/itrs.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/itrs.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/itrs.png" width="959" height="656"/>
+            <guid isPermaLink="false">slides/itrs.png</guid>
+        </item>
+        <item>
+            <title>MOSFET</title>
+            <link>slides/MOSFET.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MOSFET.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/MOSFET.png" width="1000" height="380"/>
+            <guid isPermaLink="false">slides/MOSFET.png</guid>
+        </item>
+        <item>
+            <title>vthtoxnsub</title>
+            <link>slides/vthtoxnsub.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/vthtoxnsub.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/vthtoxnsub.png" width="736" height="548"/>
+            <guid isPermaLink="false">slides/vthtoxnsub.png</guid>
+        </item>
+        <item>
+            <title>accumulation</title>
+            <link>slides/accumulation.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/accumulation.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/accumulation.png" width="1000" height="492"/>
+            <guid isPermaLink="false">slides/accumulation.png</guid>
+        </item>
+        <item>
+            <title>constant1</title>
+            <link>slides/constant1.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/constant1.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/constant1.jpg" width="494" height="201"/>
+            <guid isPermaLink="false">slides/constant1.jpg</guid>
+        </item>
+        <item>
+            <title>depletion</title>
+            <link>slides/depletion.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/depletion.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/depletion.png" width="1000" height="468"/>
+            <guid isPermaLink="false">slides/depletion.png</guid>
+        </item>
+        <item>
+            <title>idvdVel</title>
+            <link>slides/idvdVel.jpg</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/idvdVel.jpg" width="240" height="180"/>
+            <media:content type="image/jpeg" url="slides/idvdVel.jpg" width="865" height="349"/>
+            <guid isPermaLink="false">slides/idvdVel.jpg</guid>
+        </item>
+        <item>
+            <title>dibl</title>
+            <link>slides/dibl.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dibl.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/dibl.png" width="1000" height="587"/>
+            <guid isPermaLink="false">slides/dibl.png</guid>
+        </item>
+        <item>
+            <title>diblsce</title>
+            <link>slides/diblsce.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/diblsce.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/diblsce.png" width="1000" height="413"/>
+            <guid isPermaLink="false">slides/diblsce.png</guid>
+        </item>
+        <item>
+            <title>hot</title>
+            <link>slides/hot.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/hot.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/hot.png" width="1000" height="332"/>
+            <guid isPermaLink="false">slides/hot.png</guid>
+        </item>
+        <item>
+            <title>IDVGSCE</title>
+            <link>slides/IDVGSCE.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IDVGSCE.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/IDVGSCE.png" width="492" height="393"/>
+            <guid isPermaLink="false">slides/IDVGSCE.png</guid>
+        </item>
+        <item>
+            <title>impact</title>
+            <link>slides/impact.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/impact.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/impact.png" width="1000" height="404"/>
+            <guid isPermaLink="false">slides/impact.png</guid>
+        </item>
+        <item>
+            <title>inversion</title>
+            <link>slides/inversion.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/inversion.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/inversion.png" width="1000" height="473"/>
+            <guid isPermaLink="false">slides/inversion.png</guid>
+        </item>
+        <item>
+            <title>MOSCAP</title>
+            <link>slides/MOSCAP.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MOSCAP.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/MOSCAP.png" width="698" height="542"/>
+            <guid isPermaLink="false">slides/MOSCAP.png</guid>
+        </item>
+        <item>
+            <title>pocket</title>
+            <link>slides/pocket.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/pocket.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/pocket.png" width="696" height="407"/>
+            <guid isPermaLink="false">slides/pocket.png</guid>
+        </item>
+        <item>
+            <title>scattering</title>
+            <link>slides/scattering.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/scattering.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/scattering.png" width="668" height="305"/>
+            <guid isPermaLink="false">slides/scattering.png</guid>
+        </item>
+        <item>
+            <title>zonesMOS</title>
+            <link>slides/zonesMOS.png</link>
+            <pubDate>Sun, 28 Jan 2018 21:27:53 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/zonesMOS.png" width="240" height="180"/>
+            <media:content type="image/png" url="slides/zonesMOS.png" width="1000" height="509"/>
+            <guid isPermaLink="false">slides/zonesMOS.png</guid>
+        </item>
+    </channel>
+</rss>

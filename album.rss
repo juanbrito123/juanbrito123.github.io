@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>thesis-final</title>
+   	<link>.</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="1_Introduction/album.rss" title="1_Introduction" thumbnail="1_Introduction/thumbs/transistor1.jpg" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="2_MOSFET/album.rss" title="2_MOSFET" thumbnail="2_MOSFET/thumbs/bands.png" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="3_ProcessVariations/album.rss" title="3_ProcessVariations" thumbnail="3_ProcessVariations/thumbs/12nm.jpg" thumbnailWidth="148" thumbnailHeight="111" />
+    	<jalbum:link rel="sub" href="4_MismatchModeling/album.rss" title="4_MismatchModeling" thumbnail="4_MismatchModeling/thumbs/ifvgP.jpg" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="5_LiteratureReview/album.rss" title="5_LiteratureReview" thumbnail="5_LiteratureReview/thumbs/terada3.png" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="6_ParameterExtraction/album.rss" title="6_ParameterExtraction" thumbnail="6_ParameterExtraction/thumbs/eta.png" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="7_MOSFETMatrix/album.rss" title="7_MOSFETMatrix" thumbnail="7_MOSFETMatrix/thumbs/avgErrorVG.png" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="8_StackedPairMatrix/album.rss" title="8_StackedPairMatrix" thumbnail="8_StackedPairMatrix/thumbs/2stacked1.png" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="9_Conclusion/album.rss" title="9_Conclusion" />
+    	<jalbum:link rel="sub" href="10_Appendix/album.rss" title="10_Appendix" thumbnail="10_Appendix/thumbs/NormalExample_01.png" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="common_files/album.rss" title="common_files" />
+        
+    </channel>
+</rss>
