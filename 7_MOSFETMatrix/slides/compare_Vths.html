@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>img_these</title>
+<link href="../../res/common.css" rel="stylesheet">
+<link href="../../res/styles.css" rel="stylesheet">
+<script>
+document.onkeydown = function(event) {
+	switch(event.keyCode) {
+		case 27: // esc
+		case 38: // up
+			location.href = '../index.html';
+			break;
+		case 37: // back
+			location.href = 'avgErrorVG.html';
+			break;
+		case 39: // forward
+			location.href = 'medianErrorVG.html';
+			break;
+	}
+};
+</script>
+<link rel="alternate" href="../album.rss" type="application/rss+xml">
+</head>
+<body>
+<div id="imagetitle">compare_Vths</div>
+<div id="nav">
+	<a href="../index.html"><img src="../../res/index.png" alt="To index page" title="To index page"></a>
+	<a href="avgErrorVG.html"><img src="../../res/prev.png" alt="Next page" title="Previous page"></a>
+	<a href="medianErrorVG.html"><img src="../../res/next.png" alt="Next page" title="Next page"></a>
+</div>
+<div id="slideimage">
+<img src="compare_Vths.png" width="1074" height="600" alt="compare_Vths">
+	<a href="avgErrorVG.html" id="slide-prev" title="Previous page"></a>
+	<a href="medianErrorVG.html" id="slide-next" title="Next page"></a>
+</div>
+<div id="creditlink"><a href="https://jalbum.net/pt" target="_blank">jAlbum - Álbuns de fotos personalizáveis na web</a></div>
+<div id="jalbumwidgetcontainer"></div>
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+_jaSkin = "Minimal";
+_jaStyle = "light.css";
+_jaVersion = "15.1.6";
+_jaGeneratorType = "desktop";
+_jaLanguage = "pt";
+_jaPageType = "slide";
+_jaRootPath = "../..";
+_jaGuid = "1517136007073";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "http"+("https:"==document.location.protocol?"s":"")+"://jalbum.net/widgetapi/load.js";
+document.getElementById("jalbumwidgetcontainer").appendChild(script);
+//--><!]]></script>
+
+</body>
+</html>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>7_MOSFETMatrix</title>
+   	<link>..</link>
+        <generator>jAlbum 15.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>all_Vths</title>
+            <link>slides/all_Vths.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_Vths.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_Vths.png" width="1089" height="600"/>
+            <guid isPermaLink="false">slides/all_Vths.png</guid>
+        </item>
+        <item>
+            <title>avgErrorVG</title>
+            <link>slides/avgErrorVG.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/avgErrorVG.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/avgErrorVG.png" width="1086" height="600"/>
+            <guid isPermaLink="false">slides/avgErrorVG.png</guid>
+        </item>
+        <item>
+            <title>compare_Vths</title>
+            <link>slides/compare_Vths.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/compare_Vths.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/compare_Vths.png" width="1074" height="600"/>
+            <guid isPermaLink="false">slides/compare_Vths.png</guid>
+        </item>
+        <item>
+            <title>medianErrorVG</title>
+            <link>slides/medianErrorVG.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/medianErrorVG.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/medianErrorVG.png" width="1088" height="600"/>
+            <guid isPermaLink="false">slides/medianErrorVG.png</guid>
+        </item>
+        <item>
+            <title>tstudentM1M4M7</title>
+            <link>slides/tstudentM1M4M7.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/tstudentM1M4M7.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/tstudentM1M4M7.png" width="1156" height="600"/>
+            <guid isPermaLink="false">slides/tstudentM1M4M7.png</guid>
+        </item>
+        <item>
+            <title>tstudentM3M6M9</title>
+            <link>slides/tstudentM3M6M9.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/tstudentM3M6M9.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/tstudentM3M6M9.png" width="1147" height="600"/>
+            <guid isPermaLink="false">slides/tstudentM3M6M9.png</guid>
+        </item>
+        <item>
+            <title>modeErrorVG</title>
+            <link>slides/modeErrorVG.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/modeErrorVG.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/modeErrorVG.png" width="1073" height="600"/>
+            <guid isPermaLink="false">slides/modeErrorVG.png</guid>
+        </item>
+        <item>
+            <title>semilogy_vds100mv</title>
+            <link>slides/semilogy_vds100mv.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/semilogy_vds100mv.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/semilogy_vds100mv.png" width="1191" height="600"/>
+            <guid isPermaLink="false">slides/semilogy_vds100mv.png</guid>
+        </item>
+        <item>
+            <title>separate_semilogy_vds100mv</title>
+            <link>slides/separate_semilogy_vds100mv.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/separate_semilogy_vds100mv.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/separate_semilogy_vds100mv.png" width="1113" height="600"/>
+            <guid isPermaLink="false">slides/separate_semilogy_vds100mv.png</guid>
+        </item>
+        <item>
+            <title>varErrorVG</title>
+            <link>slides/varErrorVG.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/varErrorVG.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/varErrorVG.png" width="1077" height="600"/>
+            <guid isPermaLink="false">slides/varErrorVG.png</guid>
+        </item>
+        <item>
+            <title>all_erroATvg306mv</title>
+            <link>slides/all_erroATvg306mv.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_erroATvg306mv.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_erroATvg306mv.png" width="1081" height="600"/>
+            <guid isPermaLink="false">slides/all_erroATvg306mv.png</guid>
+        </item>
+        <item>
+            <title>all_eta</title>
+            <link>slides/all_eta.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_eta.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_eta.png" width="1100" height="600"/>
+            <guid isPermaLink="false">slides/all_eta.png</guid>
+        </item>
+        <item>
+            <title>all_gm</title>
+            <link>slides/all_gm.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_gm.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_gm.png" width="1099" height="600"/>
+            <guid isPermaLink="false">slides/all_gm.png</guid>
+        </item>
+        <item>
+            <title>all_gmID</title>
+            <link>slides/all_gmID.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_gmID.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_gmID.png" width="1080" height="600"/>
+            <guid isPermaLink="false">slides/all_gmID.png</guid>
+        </item>
+        <item>
+            <title>all_histErrorATvg306mv</title>
+            <link>slides/all_histErrorATvg306mv.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_histErrorATvg306mv.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_histErrorATvg306mv.png" width="1084" height="600"/>
+            <guid isPermaLink="false">slides/all_histErrorATvg306mv.png</guid>
+        </item>
+        <item>
+            <title>all_NormPlotErrorATvg306mv</title>
+            <link>slides/all_NormPlotErrorATvg306mv.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_NormPlotErrorATvg306mv.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_NormPlotErrorATvg306mv.png" width="1078" height="600"/>
+            <guid isPermaLink="false">slides/all_NormPlotErrorATvg306mv.png</guid>
+        </item>
+        <item>
+            <title>MOSFETSelection</title>
+            <link>slides/MOSFETSelection.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MOSFETSelection.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/MOSFETSelection.png" width="1200" height="430"/>
+            <guid isPermaLink="false">slides/MOSFETSelection.png</guid>
+        </item>
+        <item>
+            <title>all_DeltaIDoverID</title>
+            <link>slides/all_DeltaIDoverID.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_DeltaIDoverID.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_DeltaIDoverID.png" width="1081" height="600"/>
+            <guid isPermaLink="false">slides/all_DeltaIDoverID.png</guid>
+        </item>
+        <item>
+            <title>all_erroATvg1V8</title>
+            <link>slides/all_erroATvg1V8.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_erroATvg1V8.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_erroATvg1V8.png" width="1086" height="600"/>
+            <guid isPermaLink="false">slides/all_erroATvg1V8.png</guid>
+        </item>
+        <item>
+            <title>all_histErrorATvg1V8</title>
+            <link>slides/all_histErrorATvg1V8.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_histErrorATvg1V8.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_histErrorATvg1V8.png" width="1084" height="600"/>
+            <guid isPermaLink="false">slides/all_histErrorATvg1V8.png</guid>
+        </item>
+        <item>
+            <title>all_NormPlotErrorATvg1V8</title>
+            <link>slides/all_NormPlotErrorATvg1V8.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_NormPlotErrorATvg1V8.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_NormPlotErrorATvg1V8.png" width="1075" height="600"/>
+            <guid isPermaLink="false">slides/all_NormPlotErrorATvg1V8.png</guid>
+        </item>
+        <item>
+            <title>all_second</title>
+            <link>slides/all_second.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_second.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_second.png" width="1084" height="600"/>
+            <guid isPermaLink="false">slides/all_second.png</guid>
+        </item>
+        <item>
+            <title>all_Y</title>
+            <link>slides/all_Y.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/all_Y.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/all_Y.png" width="1105" height="600"/>
+            <guid isPermaLink="false">slides/all_Y.png</guid>
+        </item>
+        <item>
+            <title>dummy_bodyties</title>
+            <link>slides/dummy_bodyties.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dummy_bodyties.png" width="87" height="87"/>
+            <media:content type="image/png" url="slides/dummy_bodyties.png" width="87" height="91"/>
+            <guid isPermaLink="false">slides/dummy_bodyties.png</guid>
+        </item>
+        <item>
+            <title>sigmaErrorVG</title>
+            <link>slides/sigmaErrorVG.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sigmaErrorVG.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/sigmaErrorVG.png" width="1065" height="600"/>
+            <guid isPermaLink="false">slides/sigmaErrorVG.png</guid>
+        </item>
+        <item>
+            <title>w_all_gmID</title>
+            <link>slides/w_all_gmID.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_all_gmID.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_all_gmID.png" width="1098" height="596"/>
+            <guid isPermaLink="false">slides/w_all_gmID.png</guid>
+        </item>
+        <item>
+            <title>w_all_second</title>
+            <link>slides/w_all_second.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_all_second.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_all_second.png" width="1079" height="600"/>
+            <guid isPermaLink="false">slides/w_all_second.png</guid>
+        </item>
+        <item>
+            <title>w_deltaIDoverID</title>
+            <link>slides/w_deltaIDoverID.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_deltaIDoverID.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_deltaIDoverID.png" width="1078" height="599"/>
+            <guid isPermaLink="false">slides/w_deltaIDoverID.png</guid>
+        </item>
+        <item>
+            <title>w_sigmaIDoverID</title>
+            <link>slides/w_sigmaIDoverID.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_sigmaIDoverID.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_sigmaIDoverID.png" width="1083" height="600"/>
+            <guid isPermaLink="false">slides/w_sigmaIDoverID.png</guid>
+        </item>
+        <item>
+            <title>gmIDLeakage</title>
+            <link>slides/gmIDLeakage.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gmIDLeakage.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/gmIDLeakage.png" width="514" height="600"/>
+            <guid isPermaLink="false">slides/gmIDLeakage.png</guid>
+        </item>
+        <item>
+            <title>w_2DMatrixLayout</title>
+            <link>slides/w_2DMatrixLayout.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_2DMatrixLayout.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_2DMatrixLayout.png" width="611" height="600"/>
+            <guid isPermaLink="false">slides/w_2DMatrixLayout.png</guid>
+        </item>
+        <item>
+            <title>w_2DMatrixLayoutFull</title>
+            <link>slides/w_2DMatrixLayoutFull.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_2DMatrixLayoutFull.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_2DMatrixLayoutFull.png" width="937" height="449"/>
+            <guid isPermaLink="false">slides/w_2DMatrixLayoutFull.png</guid>
+        </item>
+        <item>
+            <title>w_all_curves</title>
+            <link>slides/w_all_curves.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_all_curves.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_all_curves.png" width="1090" height="600"/>
+            <guid isPermaLink="false">slides/w_all_curves.png</guid>
+        </item>
+        <item>
+            <title>w_all_curves_lin</title>
+            <link>slides/w_all_curves_lin.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_all_curves_lin.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_all_curves_lin.png" width="1095" height="592"/>
+            <guid isPermaLink="false">slides/w_all_curves_lin.png</guid>
+        </item>
+        <item>
+            <title>w_all_eta</title>
+            <link>slides/w_all_eta.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_all_eta.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_all_eta.png" width="1075" height="600"/>
+            <guid isPermaLink="false">slides/w_all_eta.png</guid>
+        </item>
+        <item>
+            <title>w_all_gm</title>
+            <link>slides/w_all_gm.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_all_gm.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_all_gm.png" width="1066" height="600"/>
+            <guid isPermaLink="false">slides/w_all_gm.png</guid>
+        </item>
+        <item>
+            <title>w_all_IDsqrtGM</title>
+            <link>slides/w_all_IDsqrtGM.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_all_IDsqrtGM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_all_IDsqrtGM.png" width="1084" height="598"/>
+            <guid isPermaLink="false">slides/w_all_IDsqrtGM.png</guid>
+        </item>
+        <item>
+            <title>w_MOSFETSelection</title>
+            <link>slides/w_MOSFETSelection.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/w_MOSFETSelection.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/w_MOSFETSelection.png" width="1200" height="402"/>
+            <guid isPermaLink="false">slides/w_MOSFETSelection.png</guid>
+        </item>
+        <item>
+            <title>gmIDKelvin</title>
+            <link>slides/gmIDKelvin.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gmIDKelvin.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/gmIDKelvin.png" width="834" height="600"/>
+            <guid isPermaLink="false">slides/gmIDKelvin.png</guid>
+        </item>
+        <item>
+            <title>laymosmatrix</title>
+            <link>slides/laymosmatrix.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/laymosmatrix.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/laymosmatrix.png" width="600" height="600"/>
+            <guid isPermaLink="false">slides/laymosmatrix.png</guid>
+        </item>
+        <item>
+            <title>sigmaID_VG</title>
+            <link>slides/sigmaID_VG.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sigmaID_VG.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/sigmaID_VG.png" width="817" height="600"/>
+            <guid isPermaLink="false">slides/sigmaID_VG.png</guid>
+        </item>
+        <item>
+            <title>VDSKelvin</title>
+            <link>slides/VDSKelvin.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/VDSKelvin.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/VDSKelvin.png" width="834" height="547"/>
+            <guid isPermaLink="false">slides/VDSKelvin.png</guid>
+        </item>
+        <item>
+            <title>curvesKelvin</title>
+            <link>slides/curvesKelvin.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curvesKelvin.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/curvesKelvin.png" width="976" height="600"/>
+            <guid isPermaLink="false">slides/curvesKelvin.png</guid>
+        </item>
+        <item>
+            <title>mosfetmatrixblk</title>
+            <link>slides/mosfetmatrixblk.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/mosfetmatrixblk.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/mosfetmatrixblk.png" width="675" height="595"/>
+            <guid isPermaLink="false">slides/mosfetmatrixblk.png</guid>
+        </item>
+        <item>
+            <title>mosfetmatrixsch</title>
+            <link>slides/mosfetmatrixsch.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/mosfetmatrixsch.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/mosfetmatrixsch.png" width="806" height="600"/>
+            <guid isPermaLink="false">slides/mosfetmatrixsch.png</guid>
+        </item>
+        <item>
+            <title>smub1500</title>
+            <link>slides/smub1500.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/smub1500.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/smub1500.png" width="1187" height="600"/>
+            <guid isPermaLink="false">slides/smub1500.png</guid>
+        </item>
+        <item>
+            <title>smusch</title>
+            <link>slides/smusch.html</link>
+            <pubDate>Sun, 28 Jan 2018 09:16:15 -0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/smusch.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/smusch.png" width="957" height="401"/>
+            <guid isPermaLink="false">slides/smusch.png</guid>
+        </item>
+    </channel>
+</rss>
